@@ -1,4 +1,4 @@
-#!/#!/usr/bin/python3
+#!/usr/bin/python3
 """create a .tgz archive from contents of the web_static"""
 from fabric.api import local, task, env, run, settings, put
 import os
